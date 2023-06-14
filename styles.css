@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: rgb(248, 246, 244);
+}
+h1{
+    text-align: center;
+    
+
+}
+form{
+    margin-bottom: 20px;
+    padding: 50px;
+   border: 2px solid #ccc;
+    
+}
+
+form input[type="text"]{
+    padding: 5px;
+    width: 300px;
+}
+form button{
+    padding: 5px 10px;
+}
+h2{
+    margin-top: 20px;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+li{
+    margin-bottom: 10px;
+}
+.completed{
+    text-decoration: line-through;
+    color: gray;
+}
+.timestamp{
+    font-size: 12px;
+    color: #777;
+}
